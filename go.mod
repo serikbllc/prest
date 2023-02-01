@@ -1,4 +1,4 @@
-module github.com/prest/prest
+module github.com/serikbllc/prest
 
 go 1.18
 
